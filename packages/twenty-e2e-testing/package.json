@@ -1,0 +1,12 @@
+{
+  "name": "twenty-e2e-testing",
+  "description": "",
+  "author": "",
+  "private": true,
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "@currents/playwright": "file:./currents-playwright-2.7.0-main.a8fce8a7.tgz",
+    "@playwright/test": "^1.60.0",
+    "playwright": "^1.60.0"
+  }
+}
